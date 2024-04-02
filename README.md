@@ -1,2 +1,5 @@
 # demo1
-This is my first repositoty
+This is my first repositoty.
+
+Author- HAARSHITH R.K
+
