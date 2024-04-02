@@ -1,5 +1,5 @@
 # demo1
 This is my first repositoty.
 
-Author- HAARSHITH R.K
+Author- HARSHITH R.K
 
